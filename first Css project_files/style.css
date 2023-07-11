@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    color: blueviolet;
+    font-weight: bold;
+    font-style: italic;
+}
+h3{
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    font-style: normal;
+}
+h4{ 
+    color: chartreuse;
+}
+devolpment{
+    float: left;
+}
+
+.top-container{
+    background-color: #97FEED;
+    position: relative;
+    padding-top: 100px;
+
+}
+.top-image{
+    position: absolute;
+    right: 200px;
+    top: 30px;
+}
+.bottom-image{
+    position: absolute;
+    left:200px;
+    bottom:200px ;
+}
